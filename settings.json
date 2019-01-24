@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Adidas"
+  },
+  {
+    "name": "Nike"
+  },
+  {
+    "name": "Adidas",
+    "name_2": "Nike"
+  },
+  {
+    "name": "Adidas",
+    "name_2": "Reebok"
+  }
+]
