@@ -1,1 +1,1 @@
-# json_training
+1. Delte file .DC
