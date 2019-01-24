@@ -1,1 +1,1 @@
-1. Delte file .DC
+This repository made for training json format
