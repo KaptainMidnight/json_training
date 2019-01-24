@@ -21,7 +21,7 @@ customer_4 = {  # Fourth customer and his basket
     "name": "Adidas",
     "name_2": "Reebok"
 }
-'''Insert in list sells'''
+'''Insert in list choice'''
 choice = []  # Choice customers
 choice.append(customer_1)  # Add in list first customer with his basket
 choice.append(customer_2)  # Add in list second customer with his basket
