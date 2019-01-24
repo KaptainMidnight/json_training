@@ -2,7 +2,7 @@ import json  # Import module json
 
 '''Create file and open him'''
 filename = "settings.json"  # Create json file
-myfile = open(filename, 'w', encoding="Latin-1")  # Open file settings.json
+myfile = open(filename, 'w', encoding="utf-8")  # Open file settings.json
 '''Create dictionary'''
 customer_1 = {  # First customer and his basket
     "name": "Adidas",
