@@ -1,3 +1,15 @@
+#------------------------------------------------
+# main.py
+# settings.json
+# venv
+# readme.md
+#
+# json_training
+#
+# Created by Alex Artemkin on 24/01/2019.
+# Copyright © 2019 Alex Artemkin. All rights reserved.
+#----------------------------------------------- 
+
 import json  # Import module json
 
 '''Create file and open him'''
