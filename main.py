@@ -48,3 +48,7 @@ myfile.close()  # Close file
 my_json = open(filename, 'r', encoding='utf-8')  # Open file settins.json
 json_data = json.load(my_json)  # Load file settings.json in variable json_data
 print(data_json)  # Print variable json_data
+
+'''Plunk list json_data'''
+for element in list(json_data):  # Create cycl for plunk list json_data
+    print(element["name"])  # Adidas, Nike, Adidas, Adidas
