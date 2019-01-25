@@ -44,7 +44,6 @@ json.dump(choice, myfile, indent=2, ensure_ascii=False)  # Save in file settings
 myfile.close()  # Close file
 
 #  Read and Load file settings.json
-
 my_json = open(filename, 'r', encoding='utf-8')  # Open file settins.json
 json_data = json.load(my_json)  # Load file settings.json in variable json_data
 print(data_json)  # Print variable json_data
